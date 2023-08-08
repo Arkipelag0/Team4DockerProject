@@ -1,0 +1,15 @@
+[submodule "Team4Gateway"]
+	path = Team4Gateway
+	url = https://github.com/Bobby-Gabriel/Team4Gateway.git
+[submodule "Team4CustomerMicroservice"]
+	path = Team4CustomerMicroservice
+	url = https://github.com/Bobby-Gabriel/Team4CustomerMicroservice.git
+[submodule "Team4EventMicroservice"]
+	path = Team4EventMicroservice
+	url = https://github.com/Bobby-Gabriel/Team4EventMicroservice.git
+[submodule "Team4RegistrationMicroservice"]
+	path = Team4RegistrationMicroservice
+	url = https://github.com/Bobby-Gabriel/Team4RegistrationMicroservice.git
+[submodule "reactapp"]
+	path = reactapp
+	url = https://github.com/Bobby-Gabriel/reactapp.git
