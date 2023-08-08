@@ -1,0 +1,25 @@
+services:
+  customer:
+    build: ./Team4CustomerMicroservice/
+    ports:
+      - "9001:9001"
+
+  event:
+    build: ./Team4EventMicroservice/
+    ports:
+      - "9000:9000"
+
+  registration:
+    build: ./Team4RegistrationMicroservice/
+    ports:
+      - "9002:9002"
+
+  gateway:
+    build: ./Team4Gateway/
+    ports:
+      - "8080:8080"
+  react-app:
+    build: ./reactapp/
+    ports:
+      - "3000:3000"
+
