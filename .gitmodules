@@ -10,9 +10,9 @@
 [submodule "Team4RegistrationMicroservice"]
 	path = Team4RegistrationMicroservice
 	url = https://github.com/Bobby-Gabriel/Team4RegistrationMicroservice.git
-[submodule "reactapp"]
-	path = reactapp
-	url = https://github.com/Bobby-Gabriel/reactapp.git
 [submodule "auth-service"]
 	path = auth-service
 	url = https://github.com/Bobby-Gabriel/auth-service.git
+[submodule "Team4ReactClient"]
+	path = Team4ReactClient
+	url = https://github.com/Bobby-Gabriel/Team4ReactClient.git
