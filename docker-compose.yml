@@ -19,11 +19,11 @@ services:
     ports:
       - "8080:8080"
   react-app:
-    build: ./reactapp/
+    build: ./Team4ReactClient/
     ports:
       - "3000:3000"
   auth:
     build: ./auth-service/
     ports:
-      - "8085:8085"
+      - "8081:8081"
 
