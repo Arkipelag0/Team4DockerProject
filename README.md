@@ -1,5 +1,6 @@
 # Using git submodules
 To pull all of the repo including the submodules use the command `git clone --recursive  http://github.com/<your repo>`
+Set your submodule config with the command `git submodule init`
 To download all of the updates to an existing repo use the command `git submodule update --remote --recursive --merge`
 
 When changing code in the submodule, cd into that directory and run your git commands.
